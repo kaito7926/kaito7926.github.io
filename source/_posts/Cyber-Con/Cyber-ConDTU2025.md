@@ -303,6 +303,7 @@ Run Python with the following command:
 python3 <filename>.py --base http://<HOST>:<PORT> --upload /upload.php --tmp /tmp --cmd "<command-your>" --threads 300 --upload-interval 0.0 --persist
 ```
 And successfully wrote the webshell and executed the command:
+
 ![alt text](/img/CYBERCON/image-7.png)
 Next, use the ls / command to check for flags with random files:
 ![alt text](/img/CYBERCON/image-8.png)
