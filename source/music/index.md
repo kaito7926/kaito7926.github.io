@@ -7,14 +7,8 @@ aside: false
 
 ## 🎧 Chill with Me  
 <img
-  src="https://i.pinimg.com/originals/35/6f/ef/356fef876522a954a13db5f5d1364192.jpg"
+  src="https://i.pinimg.com/736x/2d/51/c3/2d51c3a1a33cfb25b9513910a9b4c648.jpg"
   style="width: 520px; height: 320;"
   alt="About image">
-<iframe style="border-radius:12px"  
-        src="https://open.spotify.com/embed/playlist/0mrqaVOe6KYEEcaSYhVK4a?utm_source=generator"  
-        width="100%"  
-        height="450"  
-        frameBorder="0"  
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"  
-        loading="lazy">  
-</iframe>  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1E4tm1lyP3Imap?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  

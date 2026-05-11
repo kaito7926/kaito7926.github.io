@@ -97,7 +97,7 @@ A compilation of the certificates I have completed.
 You can click the link to view details.
 </p>
 <div class="cert-badges">
-  <span class="badge">Updated: 2025</span>
+  <span class="badge">Updated: 2026</span>
   <span class="badge">Learning</span>
   <span class="badge">Award Winner</span>
 </div>
@@ -108,16 +108,7 @@ You can click the link to view details.
 ## ✨ Outstanding
 <div class="cert-grid">
 
-<div class="cert-card">
 
-### 🎓 Da Nang CyberSecurity Exercise 2025
-<div class="cert-meta">
-<b>Issued By:</b> Organized in collaboration with the Da Nang City Police Department<br>
-<b>Date:</b> December 2025<br>
-<b>Link:</b> <a href="https://media.licdn.com/dms/image/v2/D562DAQERs6kj94mV0Q/profile-treasury-image-shrink_1920_1920/B56Zu4FeXAIwAc-/0/1768320002141?e=1770217200&v=beta&t=6XimFPKZxBLHyYIGvDwM_dKi1rsEwLnZ1HJ93nim4ro">Click to see details</a>
-</div>
-
-</div>
 
 <div class="cert-card">
 
@@ -125,7 +116,7 @@ You can click the link to view details.
 <div class="cert-meta">
 <b>Issued By:</b> Knight Squad Academy<br>
 <b>Date</b> January 2026<br>
-<b>Link:</b> <a href="https://media.licdn.com/dms/image/v2/D5622AQE1NQ1S2HpfPw/feedshare-shrink_2048_1536/B56ZvmVj5DHAAs-/0/1769095970732?e=1771459200&v=beta&t=bLDlt-p7Egm4gWswOmxgdFdnRR-VXXqeuNp7esBDSQs">Click to see details</a>
+<b>Link:</b> <a href="https://credential.knightsquad.academy/KSA-AX4HFPFW2601">Click to see details</a>
 </div>
 
 </div>

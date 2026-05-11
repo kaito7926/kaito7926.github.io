@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: bl4ck0ut
-subtitle: 'Welcome to my personal blog!'
-description: 'Hack To Learn, Not Learn To Hack'
+title: KaitoVu
+subtitle: 'A Bug Hunter from HCMUTE.ISC'
+description: 'Every System has its Vulnerabilities'
 keywords:
-author: bl4ck0ut
+author: KaitoVu
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://capt-bl4ck0ut.github.io
+url: https://kaitovu.site
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

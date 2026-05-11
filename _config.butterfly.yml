@@ -169,8 +169,8 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
-  - 'Welcome to my personal blog!'
-  - 'The best way to start is to stop talking and start doing!'
+  - 'A Bug Hunter from HCMUTE.ISC'
+  - 'Every System has its Vulnerabilities'
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -298,7 +298,7 @@ aside:
       link: https://github.com/capt-bl4ck0ut
   card_announcement:
     enable: true
-    content: Just a personal blogs
+    content: <a href='https://ko-fi.com/R6R81WA7T8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   card_recent_post:
     enable: true
     # If set 0 will show all
