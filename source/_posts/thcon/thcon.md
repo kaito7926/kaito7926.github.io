@@ -79,7 +79,7 @@ THC{L34k_Ap4ch3_m0dul3_fR0m_F1l3_r3@d}
 
 ## Flag 2 — Multi-Step Bypass of `mod_auth_thcity`
 
-This flag requires chaining four distinct primitives. We need reverse engineering the compiled module 
+This flag requires chaining four distinct primitives. We need reverse engineering the compiled module (claude cook that for me- nevermind)
 
 ### Step 0 — Reverse Engineering the Real Module
 
