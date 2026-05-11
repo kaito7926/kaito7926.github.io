@@ -1,5 +1,5 @@
 ---
-title: (English) THCon 2025 CTF — THCity Authentication Collapse — Write-up
+title: (English) THCon 2026 CTF — THCity Authentication Collapse — Write-up
 date: 2026-5-10 14:19:33
 top_img: /img/thcon/thcon.png
 cover: /img/thcon/thcon.png
