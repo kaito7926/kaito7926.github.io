@@ -362,7 +362,7 @@ f2 = get_flag2(TARGET)
 print(f"FLAG1: {f1}")
 print(f"FLAG2: {f2}")
 ```
-
+Flag: `THC{S5RF_W1th_h34d3Rs_0nly_4nd_p1pi3l1nInG_l@st_sT3P!}`
 ---
 
 ## TL-DR

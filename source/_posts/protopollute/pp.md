@@ -11,7 +11,7 @@ toc: true
 
 # Overview of Prototype Pollution
 > **Prototype pollution** vulnerabilities typically arise when user input is used to set properties of
-existing objects.This vuln is kind of long thery so I will not discuss in this blog. You can learn more about this vulnerable [here](https://portswigger.net/web-security/learning-paths/prototype-pollution)
+existing objects.This vuln is kind of long theory so I will not discuss in this blog. You can learn more about this vulnerable [here](https://portswigger.net/web-security/learning-paths/prototype-pollution)
 
 But after complete that learning-path, I start do some CTF challenge and writeup it here.
 
